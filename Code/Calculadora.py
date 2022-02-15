@@ -15,6 +15,8 @@ Date of version: 02/13/2022
 OBS: Not all buttons are working!!!
 I wasn't sure how to make some of them
 
+Functions in line 800
+
 """
 
 from unicodedata import numeric
